@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Lakshmi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
--� I’m currently exploring more about Data Analytics!
+- � I’m currently exploring more about Data Analytics!
  
 - 🌱 I’m skilled in **Power Bi, SQL, Python, Advance Excel, EDA**
 
